@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NYC Public Transport.</string>
+    <string name="cad_open">cad open..</string>
+    <string name="cad_close">cad close..</string>
+
+    <array name="planets_array">
+        <item>mercurio</item>
+        <item>venus</item>
+        <item>tierra</item>
+        <item>marte</item>
+        <item>jupiter</item>
+        <item>saturno</item>
+        <item>urano</item>
+        <item>neptuno</item>
+    </array>
+
+</resources>
